@@ -5,7 +5,6 @@ An AI translator with front-end built with Next.js and backend built with Python
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -65,15 +64,6 @@ python server.py
 
 Access the AI Translator web application in your browser at http://localhost:3000/ and start using the translation functionality.
 
-## Contributing
-Contributions to this project are welcome! If you want to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/improvement)
-Make your changes and commit them (git commit -am 'Add new feature')
-Push to the branch (git push origin feature/improvement)
-Create a pull request.
-Please make sure to follow the Contributor Covenant Code of Conduct in all your interactions.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
