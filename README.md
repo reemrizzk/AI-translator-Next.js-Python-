@@ -30,14 +30,14 @@ cd AI-translator-Next.js-Python-
 
 Install dependencies for the frontend (Next.js):
 ```bash
-cd frontend
+cd front-end
 npm install
 ```
 
 Install Python dependencies for the backend:
 ```bash
 # Navigate to the backend directory
-cd ../backend
+cd ../back-end
 # Install required Python packages (consider using a virtual environment)
 pip install -r requirements.txt
 ```
@@ -48,7 +48,7 @@ To run the project locally:
 Start the frontend (Next.js):
 ```bash
 # Navigate to the frontend directory
-cd frontend
+cd front-end
 # Start the Next.js development server
 npm run dev
 ```
