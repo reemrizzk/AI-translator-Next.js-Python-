@@ -39,7 +39,9 @@ Install Python dependencies for the backend:
 # Navigate to the backend directory
 cd ../back-end
 # Install required Python packages (consider using a virtual environment)
-pip install -r requirements.txt
+pip install torch
+pip install transformers
+pip install accelerate
 ```
 
 ## Usage
