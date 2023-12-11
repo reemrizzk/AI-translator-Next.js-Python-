@@ -1,10 +1,6 @@
 # AI-translator-Next.js-Python-
 An AI translator with front-end built with Next.js and backend built with Python
 
-# AI Translator using Next.js and Python
-
-This project is an AI Translator that utilizes Next.js for the frontend and Python for the backend. It aims to provide a simple yet effective interface for translating text between different languages using AI-powered translation models.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -45,3 +41,38 @@ cd ../backend
 # Install required Python packages (consider using a virtual environment)
 pip install -r requirements.txt
 ```
+
+## Usage
+To run the project locally:
+
+Start the frontend (Next.js):
+```bash
+# Navigate to the frontend directory
+cd frontend
+# Start the Next.js development server
+npm run dev
+```
+
+Start the backend (Python):
+```bash
+# Navigate to the backend directory
+cd ../back-end
+# Run the Python backend server
+python server.py
+```
+
+Access the AI Translator web application in your browser at http://localhost:3000/ and start using the translation functionality.
+
+## Contributing
+Contributions to this project are welcome! If you want to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/improvement)
+Make your changes and commit them (git commit -am 'Add new feature')
+Push to the branch (git push origin feature/improvement)
+Create a pull request.
+Please make sure to follow the Contributor Covenant Code of Conduct in all your interactions.
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
+
