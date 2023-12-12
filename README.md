@@ -13,7 +13,9 @@ An AI translator with front-end built with Next.js and backend built with Python
 
 The AI Translator project is designed to facilitate language translation through an intuitive web interface. It uses Next.js, a React framework, for the front-end to create a user-friendly experience, and Python for the back-end to handle translation requests using AI models, and output it in JSON format.
 
-The project uses transformers AI models to accurately translate text between various languages, providing an efficient and easy-to-use solution for language barriers.
+The project uses Hugging Face's Helsinki Opus pre-trained models to translate text between various languages, providing an efficient and easy-to-use solution for language barriers.
+
+This project currently offers translation between the languages Arabbc, English, French, German, and Spanish. 
 
 ## Installation
 
