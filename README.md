@@ -1,6 +1,8 @@
 # AI-translator-Next.js-Python-
 An AI translator with front-end built with Next.js and backend built with Python
 
+![image](https://github.com/reemrizzk/AI-translator-Next.js-Python-/assets/50383558/aaccb2dc-b262-490d-ba7b-380f21b397fc)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
