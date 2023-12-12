@@ -106,7 +106,7 @@ export default function Home() {
         <div className="container px-2 pb-3">  
             <div className="row align-items-center pt-lg-3 pt-5">
                 <div className="translation-col col-lg-6 text-left text-lg-start rounded p-4">
-                    <h1 className={montserrat.className+" display-6 lh-1 mb-3"}>AI translator</h1>
+                    <h1 className={montserrat.className+" display-6 lh-1 mb-3"}>AI Translator</h1>
                     <div className="row">
                         <div className="mb-2 col-6">     
                             <label htmlFor="sourceLang">From:&nbsp;</label>
